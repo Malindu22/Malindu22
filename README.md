@@ -9,4 +9,4 @@ Malindu22/Malindu22 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://komarev.com/ghpvc/?username=Malindu22)
+![](https://komarev.com/ghpvc/?username=Malindu22&color=blueviolet)
